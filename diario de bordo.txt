@@ -1,0 +1,12 @@
+11-09-2025
+
+atualização do expo go --para o sdk 54
+
+
+npx create-expo-app GooDayApp
+
+npm install
+
+npm install expo-router
+
+npx expo start
